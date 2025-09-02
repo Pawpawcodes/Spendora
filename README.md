@@ -1,8 +1,6 @@
 SPENDORA - Pandora Paradox × Emerald
-Your Emerald Financial Guardian powered by mystical wisdom
-
 Every expense hides a story — Spendora uncovers it and turns paradox into clarity.
-
+website url: https://spendoraa.onrender.com/
 Features
 Animated emerald landing experience and hero branding
 
